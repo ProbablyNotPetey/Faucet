@@ -1,0 +1,37 @@
+{
+    "name": "goc:war",
+    "items": {
+        "mainhand": "cataclysm:zweiender",
+        "head": "omnis:haunted_helmet",
+        "chest": "omnis:haunted_chestplate",
+        "legs": "omnis:haunted_leggings",
+        "feet": "omnis:haunted_boots",
+        "block": "immersiveengineering:slab_storage_electrum",
+        "hands_locked": true,
+        "block_locked": true,
+        "armor_locked": true
+    },
+    "pose": {
+        "head": {
+            "x": -0.383972
+        },
+        "left_arm": {
+            "x": -2.25147,
+            "z": -1.5708
+        },
+        "right_arm": {
+            "x": -1.72788,
+            "y": -0.261799
+        },
+        "left_leg": {
+            "x": 0.0698132,
+            "z": -0.0349066
+        },
+        "right_leg": {
+            "x": -0.0698132,
+            "z": 0.0349066
+        }
+    },
+    "pose_locked": true
+}
+    

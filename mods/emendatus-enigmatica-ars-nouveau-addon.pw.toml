@@ -1,0 +1,13 @@
+name = "EE: Ars Nouveau"
+filename = "EE_Ars_Nouveau_Addon-1.0.0-build.4+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f19d63ffdb94898e8aa276708d01c6f4299a8b20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361765
+project-id = 809269

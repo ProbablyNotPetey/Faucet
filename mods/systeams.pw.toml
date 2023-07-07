@@ -1,0 +1,13 @@
+name = "Thermal Systeams"
+filename = "systeams-1.19.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0af88673bcfcd712e59ccb141017e7e42b0efb99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4599922
+project-id = 693382

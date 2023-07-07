@@ -1,0 +1,19 @@
+{
+  "values": [
+    "emendatusenigmatica:tin_block",
+    "emendatusenigmatica:raw_tin_block",
+    "emendatusenigmatica:tin_deepslate_ore",
+    "emendatusenigmatica:tin_moon_ore",
+    "emendatusenigmatica:tin_stone_ore",
+    "emendatusenigmatica:silver_block",
+    "emendatusenigmatica:raw_silver_block",
+    "emendatusenigmatica:silver_deepslate_ore",
+    "emendatusenigmatica:silver_moon_ore",
+    "emendatusenigmatica:silver_stone_ore",
+    "emendatusenigmatica:zinc_block",
+    "emendatusenigmatica:raw_zinc_block",
+    "emendatusenigmatica:zinc_deepslate_ore",
+    "emendatusenigmatica:zinc_moon_ore",
+    "emendatusenigmatica:zinc_stone_ore"
+  ]
+}

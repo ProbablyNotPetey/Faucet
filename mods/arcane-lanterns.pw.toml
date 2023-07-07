@@ -1,0 +1,13 @@
+name = "Arcane Lanterns [Forge & Fabric]"
+filename = "ArcaneLanterns-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5baf441c2201197378e9ca8ed35ddff9f8aec00e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4499056
+project-id = 852666

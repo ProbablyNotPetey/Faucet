@@ -1,0 +1,13 @@
+name = "Castle in the Sky"
+filename = "castle_in_the_sky-1.19.2-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9a6cae34e9c52edc6654e16b5736b07d318fd8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4007424
+project-id = 496698

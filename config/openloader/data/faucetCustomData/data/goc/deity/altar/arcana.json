@@ -1,0 +1,33 @@
+{
+    "name": "goc:arcana",
+    "female": true,
+    "slim": true,
+    "items": {
+        "head": "hexerei:mushroom_witch_hat",
+        "block": "malum:small_twisted_rock_bricks_slab",
+        "hands_locked": true,
+        "block_locked": true,
+        "armor_locked": true
+    },
+    "pose": {
+        "head": {
+            "z": -0.122173
+        },
+        "left_arm": {
+            "z": -0.0698132
+        },
+        "right_arm": {
+            "x": -2.53073,
+            "y": 1.36136,
+            "z": 0.0698132
+        },
+        "left_leg": {
+            "z": -0.0349066
+        },
+        "right_leg": {
+            "z": 0.0349066
+        }
+    },
+    "pose_locked": true
+    
+}

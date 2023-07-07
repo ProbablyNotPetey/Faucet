@@ -1,0 +1,13 @@
+name = "Sleep Tight"
+filename = "sleep_tight-1.19.2-1.0.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89ecef8da84740e162952bb3031695a1d318f38f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4554340
+project-id = 817564

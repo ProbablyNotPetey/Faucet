@@ -1,0 +1,60 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "min": 2.0,
+          "max": 5.0,
+          "type": "minecraft:uniform"
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Potion:\"minecraft:water\"}"
+              }
+            ],
+            "name": "minecraft:potion"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "delightful:prickly_pear_juice"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1.0,
+                  "max": 3.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "ecologics:prickly_pear"
+          }
+          
+        ]
+      },
+      {
+        "rolls": {
+            "type": "minecraft:constant",
+            "value": 1
+        },
+        "entries": [
+            
+              {
+                "type": "minecraft:item",
+                "weight": 1,
+                "name": "artifacts:umbrella"
+              }
+        ]
+      }
+    ]
+}

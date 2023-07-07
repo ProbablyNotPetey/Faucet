@@ -1,0 +1,13 @@
+name = "Extended Mushrooms"
+filename = "extendedmushrooms-1.19.2-3.0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6847f1b5d7c5269850a9a2507358b7220993f30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4159848
+project-id = 365507

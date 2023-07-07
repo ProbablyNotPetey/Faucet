@@ -1,0 +1,41 @@
+{
+
+
+
+
+    "item.immersiveengineering.dust_copper":"Copper Dust",
+    "item.immersiveengineering.dust_aluminum":"Aluminum Dust",
+    "item.immersiveengineering.dust_lead":"Lead Dust",
+    "item.immersiveengineering.dust_silver":"Silver Dust",
+    "item.immersiveengineering.dust_nickel":"Nickel Dust",
+    "item.immersiveengineering.dust_uranium":"Uranium Dust",
+    "item.immersiveengineering.dust_constantan":"Constantan Dust",
+    "item.immersiveengineering.dust_electrum":"Electrum Dust",
+    "item.immersiveengineering.dust_steel":"Steel Dust",
+    "item.immersiveengineering.dust_iron":"Iron Dust",
+    "item.immersiveengineering.dust_gold":"Gold Dust",
+
+
+    "block.immersiveengineering.storage_aluminum":"Block of Aluminum",
+    "block.immersiveengineering.slab_storage_aluminum":"Aluminum Slab",
+    "block.immersiveengineering.sheetmetal_aluminum":"Aluminum Sheetmetal",
+    "block.immersiveengineering.slab_sheetmetal_aluminum":"Aluminum Sheetmetal Slab",
+    "block.immersiveengineering.alu_fence":"Aluminum Fence",
+    "block.immersiveengineering.alu_post":"Aluminum Post",
+    "block.immersiveengineering.alu_wallmount":"Aluminum Wallmount",
+    "block.immersiveengineering.alu_slope":"Aluminum Structural Arm",
+    "block.immersiveengineering.alu_scaffolding_standard":"Aluminum Scaffolding",
+    "block.immersiveengineering.alu_scaffolding_grate_top":"Aluminum Scaffolding",
+    "block.immersiveengineering.alu_scaffolding_wooden_top":"Aluminum Scaffolding",
+    "block.immersiveengineering.slab_alu_scaffolding_standard":"Aluminum Scaffolding Slab",
+    "block.immersiveengineering.slab_alu_scaffolding_grate_top":"Aluminum Scaffolding Slab",
+    "block.immersiveengineering.slab_alu_scaffolding_wooden_top":"Aluminum Scaffolding Slab",
+    "block.immersiveengineering.stairs_alu_scaffolding_standard":"Aluminum Scaffolding Stairs",
+    "block.immersiveengineering.stairs_alu_scaffolding_grate_top":"Aluminum Scaffolding Stairs",
+    "block.immersiveengineering.stairs_alu_scaffolding_wooden_top":"Aluminum Scaffolding Stairs",
+    "item.immersiveengineering.ingot_aluminum":"Aluminum Ingot",
+    "item.immersiveengineering.nugget_aluminum":"Aluminum Nugget",
+    "item.immersiveengineering.stick_aluminum":"Aluminum Rod",
+    "item.immersiveengineering.wire_aluminum":"Aluminum Wire",
+    "item.immersiveengineering.plate_aluminum":"Aluminum Plate"
+}

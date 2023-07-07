@@ -1,0 +1,13 @@
+name = "EE: Occultism"
+filename = "EE_Occultism_Addon-1.0.0-build.4+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13e70cf83de45c0094cef741e77ac40cdb354b94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361737
+project-id = 809270

@@ -1,0 +1,13 @@
+name = "EE: Mekanism"
+filename = "EE_Mekanism_Addon-1.0.1-build.11+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e4e28ed1f57041fdaa597e8f3f64d31ac81a6e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4440683
+project-id = 809266

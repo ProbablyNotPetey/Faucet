@@ -1,0 +1,44 @@
+{
+    "name": "goc:architect",
+    "items": {
+        "block": "botania:dark_quartz_slab",
+        "head": "botania:gaia_head",
+        "chest": "malum:soul_hunter_robe",
+        "legs": "malum:soul_hunter_leggings",
+        "feet": "malum:soul_hunter_boots",
+        "hands_locked": true,
+        "block_locked": true,
+        "armor_locked": true
+    },
+    "pose": {
+        "head": {
+            "x": 0.663225
+        },
+        "body": {
+            "x": 0.0174533
+        },
+        "left_arm": {
+            "x": -1.0821,
+            "y": 0.261799,
+            "z": 0.331613
+        },
+        "right_arm": {
+            "x": -1.0821,
+            "y": -0.261799,
+            "z": -0.331613
+        },
+        "left_leg": {
+            "x": -1.5708,
+            "y": -0.261799
+        },
+        "right_leg": {
+            "x": -1.5708,
+            "y": 0.261799
+        },
+        "offset": {
+            "y": -1.95477,
+            "z": -0.907571
+        }
+    },
+    "pose_locked": true
+}

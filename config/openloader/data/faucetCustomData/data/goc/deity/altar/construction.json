@@ -1,0 +1,33 @@
+{
+    "name": "goc:construction",
+    "items": {
+        "mainhand": "hexerei:warhammer",
+        "chest": "omnis:ravaged_chestplate",
+        "legs": "omnis:ravaged_leggings",
+        "feet": "omnis:ravaged_boots",
+        "block": "create:cut_scoria_brick_slab",
+        "hands_locked": true,
+        "block_locked": true,
+        "armor_locked": true
+    },
+    "pose": {
+        "head": {
+            "x": 0.296706
+        },
+        "left_arm": {
+            "z": -0.0349066
+        },
+        "right_arm": {
+            "x": -1.01229,
+            "z": 0.0349066
+        },
+        "left_leg": {
+            "z": -0.0349066
+        },
+        "right_leg": {
+            "z": 0.0349066
+        }
+    },
+    "pose_locked": true
+}
+    

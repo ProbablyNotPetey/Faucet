@@ -1,0 +1,13 @@
+name = "Ars Artifice"
+filename = "ars_artifice-1.19.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "251ea71fd7bf029bd5029b5438d7f2f65cb156c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4557233
+project-id = 854169

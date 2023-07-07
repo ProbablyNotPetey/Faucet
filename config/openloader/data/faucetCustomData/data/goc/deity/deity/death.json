@@ -1,0 +1,7 @@
+{
+    "name": "goc:death",
+    "unlocked": true,
+    "icon": "bloodmagic:basemonstersoul",
+    "minlevel": -10,
+    "maxlevel": 20
+}

@@ -1,0 +1,4 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 21, 2023, 1:57:07 PM
+
+#feywild:feywild_layers
+- feywild:default (from Feywild-1.19.2-3.2.2.jar)

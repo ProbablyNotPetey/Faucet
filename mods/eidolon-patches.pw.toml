@@ -1,0 +1,13 @@
+name = "Eidolon Patches"
+filename = "eidolon-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f870219a88e791bfc883453039260e3425dc17a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4622418
+project-id = 665468

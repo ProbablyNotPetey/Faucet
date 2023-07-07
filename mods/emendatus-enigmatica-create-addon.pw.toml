@@ -1,0 +1,13 @@
+name = "EE: Create"
+filename = "EE_Create_Addon-1.0.1-build.5+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f39cd08062014189213e960163687b23988700c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4442217
+project-id = 809271

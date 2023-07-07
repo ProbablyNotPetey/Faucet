@@ -1,0 +1,7 @@
+{
+    "name": "goc:knowledge",
+    "unlocked": true,
+    "icon": "botania:tiny_planet",
+    "minlevel": -10,
+    "maxlevel": 20
+}

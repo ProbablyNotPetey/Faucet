@@ -1,0 +1,13 @@
+name = "Thermaloot"
+filename = "thermaloot-1.19.2-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d3877d0096353cc8f8169892fb669fa5b9932e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594256
+project-id = 873446

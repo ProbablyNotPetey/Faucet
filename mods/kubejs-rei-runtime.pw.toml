@@ -1,0 +1,13 @@
+name = "KubeJS REI Runtime"
+filename = "KubeJSREIRuntime-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c287b44249819a7a9903fa63c696d7ac50ae0ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4413003
+project-id = 831817

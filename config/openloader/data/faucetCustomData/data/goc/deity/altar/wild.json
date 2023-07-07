@@ -1,0 +1,35 @@
+{
+    "name": "goc:wild",
+    "female": true,
+    "slim": true,
+    "items": {
+        "mainhand": "botania:livingwood_bow",
+        "block": "quark:mossy_cobblestone_bricks_slab",
+        "hands_locked": true,
+        "block_locked": true,
+        "armor_locked": true
+    },
+    "pose": {
+        "head": {
+            "x": 0.0872665
+        },
+        "body": {
+            "x": -0.0174533
+        },
+        "left_arm": {
+            "z": -0.0349066
+        },
+        "right_arm": {
+            "x": -0.523599,
+            "z": 0.0349066
+        },
+        "left_leg": {
+            "z": -0.0349066
+        },
+        "right_leg": {
+            "z": 0.0349066
+        }
+    },
+    "pose_locked": true
+    
+}

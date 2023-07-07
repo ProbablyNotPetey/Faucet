@@ -1,0 +1,13 @@
+name = "Casting Crystals"
+filename = "casting_crystals-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07fa087e0c90b08e81a037fe275fe3c5e555ee20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4127535
+project-id = 715054

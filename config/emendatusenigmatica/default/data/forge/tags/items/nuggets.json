@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#forge:nuggets/steel",
+    "#forge:nuggets/nickel",
+    "#forge:nuggets/tin",
+    "#forge:nuggets/osmium",
+    "#forge:nuggets/silver",
+    "#forge:nuggets/uranium",
+    "#forge:nuggets/brass",
+    "#forge:nuggets/aluminum",
+    "#forge:nuggets/zinc",
+    "#forge:nuggets/lead"
+  ]
+}

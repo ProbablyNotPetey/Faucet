@@ -1,0 +1,13 @@
+name = "Blossom"
+filename = "blossom-forge-1.19.2-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8432b1b01d2018c97e72b7e9878854e0e73b8ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4405665
+project-id = 575248

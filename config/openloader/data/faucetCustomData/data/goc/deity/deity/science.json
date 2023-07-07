@@ -1,0 +1,7 @@
+{
+    "name": "goc:science",
+    "unlocked": true,
+    "icon": "apotheosis:vial_of_expulsion",
+    "minlevel": -10,
+    "maxlevel": 20
+}

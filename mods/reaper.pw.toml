@@ -1,0 +1,13 @@
+name = "Reaper"
+filename = "Reaper-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b45dea6afcb8f6cc0355dd26bb29f5f62044bcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4102432
+project-id = 688879

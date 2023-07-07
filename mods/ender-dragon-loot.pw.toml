@@ -1,0 +1,13 @@
+name = "Ender Dragon Loot"
+filename = "Ender_Dragon_Loot1.19.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b28576898cd1c5d9339897be4cfbd415a7bff23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4562125
+project-id = 867839

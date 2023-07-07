@@ -1,0 +1,29 @@
+{
+    "id": "nickel",
+    "source": "modded",
+    "localizedName": "Nickel",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "ore",
+        "raw",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "slurry",
+        "crystal",
+        "shard",
+        "clump",
+        "dirty_dust"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "metal",
+        "harvestLevel": 2
+    },
+    "colors": {
+        "materialColor": "d9d7a9"
+    }   
+}

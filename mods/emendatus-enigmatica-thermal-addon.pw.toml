@@ -1,0 +1,13 @@
+name = "EE: Thermal Expansion"
+filename = "EE_Thermal_Addon-1.0.0-build.7+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fc7922592778523c164a5726e9fddcaa49d6522"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361742
+project-id = 809273

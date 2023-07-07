@@ -1,0 +1,13 @@
+name = "Faucet"
+author = "IAmPetey"
+version = "1.19.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "165f73928e42b2b0c415b713583661d3910348ae5c4e38565a769d6c27d29444"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Better Fishing Rods"
+filename = "Better Fishing Rods 1.0.0 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff389f738e97c5729f56bd4f2f501abff4d71a96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4121535
+project-id = 511385

@@ -1,0 +1,13 @@
+name = "The Abyss II - The Other Side"
+filename = "TA-0.9.5-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e733c1c96ef62102ba36ca006f74b208efa6d485"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4558060
+project-id = 440647

@@ -1,0 +1,1 @@
+REIRuntime.hideItem(deleteMe)

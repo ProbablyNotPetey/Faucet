@@ -1,0 +1,25 @@
+{
+
+
+
+    "block.hexerei.willow_log": "Ancient Willow Log",
+    "block.hexerei.willow_planks": "Ancient Willow Planks",
+    "block.hexerei.willow_wood": "Ancient Willow Wood",
+    "block.hexerei.stripped_willow_log": "Stripped Ancient Willow Log",
+    "block.hexerei.stripped_willow_wood": "Stripped Ancient Willow Wood",
+    "block.hexerei.willow_stairs": "Ancient Willow Stairs",
+    "block.hexerei.willow_fence": "Ancient Willow Fence",
+    "block.hexerei.willow_fence_gate": "Ancient Willow Fence Gate",
+    "block.hexerei.willow_slab": "Ancient Willow Slab",
+    "block.hexerei.willow_button": "Ancient Willow Button",
+    "block.hexerei.willow_pressure_plate": "Ancient Willow Pressure Plate",
+    "block.hexerei.willow_door": "Ancient Willow Door",
+    "block.hexerei.willow_trapdoor": "Ancient Willow Trapdoor",
+    "block.hexerei.willow_leaves": "Ancient Willow Leaves",
+    "block.hexerei.willow_sapling": "Ancient Willow Sapling",
+    "block.hexerei.willow_vines": "Ancient Willow Vines",
+    "block.hexerei.willow_vines_plant": "Ancient Willow Vines",
+
+    "item.hexerei.willow_broom": "Ancient Willow Broom",
+    "entity.hexerei.willow_broom": "Ancient Willow Broom"
+}
