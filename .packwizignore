@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# Exclude ProbeJS generated files
+/kubejs/probe/
