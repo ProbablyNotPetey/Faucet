@@ -1,1 +1,3 @@
-REIRuntime.hideItem(deleteMe)
+REIEvents.hide('item', event => {
+    event.hide(deleteMe)
+})
