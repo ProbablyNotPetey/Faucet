@@ -101,9 +101,6 @@
 		[types.leaves_type.ad_astra]
 			glacian = true
 
-		[types.leaves_type.twilightdelight]
-			ironwood = true
-
 		[types.leaves_type.undergarden]
 			smogstem = true
 			wigglewood = true
@@ -154,6 +151,12 @@
 			ash = true
 			runic = true
 			radiant = true
+
+		[types.leaves_type.meadow]
+			pine = true
+
+		[types.leaves_type.twilightdelight]
+			ironwood = true
 
 	[types.wood_type]
 
@@ -285,6 +288,9 @@
 
 		[types.wood_type.eidolon]
 			illwood = true
+
+		[types.wood_type.meadow]
+			pine = true
 
 [entries]
 
