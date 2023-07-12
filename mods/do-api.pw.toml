@@ -1,0 +1,13 @@
+name = "[Let's Do] API "
+filename = "letsdo-api-forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa427c6ae23c2469a612175ec715e278387b746e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4610790
+project-id = 864599
