@@ -1,7 +1,10 @@
-// 1.19.2	2023-07-07T11:35:23.4372407	EE Ars Nouveau Addon Recipes
+// 1.19.2	2023-07-13T11:33:41.1981757	EE Ars Nouveau Addon Recipes
 34e2eceb3f05f357b980c98fa1391e7cf34f814f data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/aluminum_deepslate.json
 94931376222cc63ff25a0c59560614805413bdbb data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/aluminum_moon.json
 cf06c28fd1bd4d3b612d2c5ccc86f3b9e596458f data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/aluminum_stone.json
+104ab4da186bc680c20c163cefa8a2a4a7b208aa data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/apatite_deepslate.json
+3cfba73fd8c43086da25af1f78916b0aad097411 data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/apatite_moon.json
+055101a46455f055baabbefbb7dbda15db1519d5 data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/apatite_stone.json
 84715d6bf1f7c98e90f30f08395839c8e653f3d7 data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/lead_deepslate.json
 d29d0b13ba2d0056520b6e1fbfbbaac28ece1e31 data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/lead_moon.json
 fe7b99c57794178ca645dfc185ec690194f30661 data/emendatusenigmatica/recipes/dust/from_ore_crush_spell/lead_stone.json

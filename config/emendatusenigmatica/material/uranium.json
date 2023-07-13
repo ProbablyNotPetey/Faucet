@@ -21,9 +21,7 @@
     "disableDefaultOre": true,
     "properties": {
         "materialType": "metal",
-        "harvestLevel": 3
-    },
-    "colors": {
-        "materialColor": "489946"
-    }   
+        "harvestLevel": 3,
+        "isEmmisive": true
+    } 
 }

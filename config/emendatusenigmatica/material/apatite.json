@@ -1,0 +1,29 @@
+{
+    "id": "apatite",
+    "source": "modded",
+    "localizedName": "Apatite",
+    "processedTypes": [
+        "storage_block",
+        "gem",
+        "ore",
+        "raw",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "slurry",
+        "crystal",
+        "shard",
+        "clump",
+        "dirty_dust"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "gem",
+        "harvestLevel": 1
+    },
+    "oreDrop": {
+        "min": 4,
+        "max": 9
+    }
+}

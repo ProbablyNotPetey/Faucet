@@ -1,5 +1,7 @@
 {
   "values": [
+    "#forge:storage_blocks/apatite",
+    "#forge:storage_blocks/raw_apatite",
     "#forge:storage_blocks/steel",
     "#forge:storage_blocks/nickel",
     "#forge:storage_blocks/raw_nickel",

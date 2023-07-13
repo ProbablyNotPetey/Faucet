@@ -22,8 +22,5 @@
     "properties": {
         "materialType": "metal",
         "harvestLevel": 1
-    },
-    "colors": {
-        "materialColor": "a3ced9"
-    }   
+    } 
 }

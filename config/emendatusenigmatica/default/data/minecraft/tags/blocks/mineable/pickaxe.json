@@ -1,5 +1,10 @@
 {
   "values": [
+    "emendatusenigmatica:apatite_block",
+    "emendatusenigmatica:raw_apatite_block",
+    "emendatusenigmatica:apatite_deepslate_ore",
+    "emendatusenigmatica:apatite_moon_ore",
+    "emendatusenigmatica:apatite_stone_ore",
     "emendatusenigmatica:steel_block",
     "emendatusenigmatica:nickel_block",
     "emendatusenigmatica:raw_nickel_block",
