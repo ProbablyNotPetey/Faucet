@@ -52,10 +52,6 @@
 			red_blossom = true
 			ancient = true
 
-		[types.leaves_type.pizzacraft]
-			olive = true
-			fruit_olive = true
-
 		[types.leaves_type.forbidden_arcanus]
 			cherry = true
 			aurum = true
@@ -70,11 +66,6 @@
 
 		[types.leaves_type.architects_palette]
 			twisted = true
-
-		[types.leaves_type.caupona]
-			walnut = true
-			fig = true
-			wolfberry = true
 
 		[types.leaves_type.ars_nouveau]
 			blue_archwood = true
@@ -209,9 +200,6 @@
 		[types.wood_type.autumnity]
 			maple = true
 
-		[types.wood_type.pizzacraft]
-			olive = true
-
 		[types.wood_type.forbidden_arcanus]
 			fungyss = true
 			cherry = true
@@ -228,9 +216,6 @@
 
 		[types.wood_type.architects_palette]
 			twisted = true
-
-		[types.wood_type.caupona]
-			walnut = true
 
 		[types.wood_type.ars_nouveau]
 			archwood = true

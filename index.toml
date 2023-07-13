@@ -8684,11 +8684,6 @@ hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]
-file = "mods/welcome-to-meadow.pw.toml"
-hash = "08001780575eac361b9d039162f30fda7af4fcb64a27c892395a3d9645e9bcab"
-metafile = true
-
-[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
 metafile = true
