@@ -6,3 +6,6 @@
 
 # Exclude ProbeJS generated files
 /kubejs/probe/
+
+# Exclude EE generated files
+/config/emendatusenigmatica/default/

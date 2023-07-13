@@ -7,5 +7,14 @@
 # Exclude ProbeJS generated files
 /kubejs/probe/
 
-# Exclude EE Default
+# Exclude EE generated files
 /config/emendatusenigmatica/default/
+
+# Exclude config files with constantly updating dates (why?)
+/config/libraryferret_1.properties
+/config/bettervillage_1.properties
+/config/roughlyenoughitems/pinyin.properties
+/config/roughlyenoughitems/pinyin_double.properties
+/config/oculus.properties
+/config/sound_physics_remastered/
+/config/xaerominimap_entities.json
