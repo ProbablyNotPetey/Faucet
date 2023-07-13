@@ -7619,11 +7619,6 @@ hash = "3c6cb39492d5076a6bcd58a76a645185dddac5837080580a83d580501a322f0c"
 metafile = true
 
 [[files]]
-file = "mods/caupona.pw.toml"
-hash = "00a23ea616eb04844c75c219ca7188314369eacf39809bf21d6aa6e79b67ea70"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
@@ -7671,16 +7666,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
-metafile = true
-
-[[files]]
-file = "mods/create-ad-astra-compat.pw.toml"
-hash = "5ede88028419bbf7783de9513ba32c439ec59e7aeeb7abd907646a62c6794942"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "64a9d79e47475b1eab6fa604ee28cfdca26a006804ca2b2bb8d28aab782da67a"
 metafile = true
 
 [[files]]
