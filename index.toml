@@ -8415,6 +8415,11 @@ hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "1e84c75519192f7a60914a983acf6c3211e12e6b09c516098c7ad90f52f2f0dd"
+metafile = true
+
+[[files]]
 file = "mods/rpg-gods.pw.toml"
 hash = "80949fa1c5a99a1e440dc1945914ecb7cf8d34b064d24b822ae7e3198a0a71de"
 metafile = true

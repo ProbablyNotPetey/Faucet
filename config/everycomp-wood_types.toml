@@ -121,9 +121,6 @@
 		[types.leaves_type.totemic]
 			cedar = true
 
-		[types.leaves_type.primalmagick]
-			hallowood = true
-
 		[types.leaves_type.colorfulazaleas]
 			blue_azalea = true
 			blue_blooming_azalea = true
@@ -157,6 +154,9 @@
 
 		[types.leaves_type.twilightdelight]
 			ironwood = true
+
+		[types.leaves_type.primalmagick]
+			hallowood = true
 
 	[types.wood_type]
 
@@ -268,11 +268,6 @@
 		[types.wood_type.totemic]
 			cedar = true
 
-		[types.wood_type.primalmagick]
-			sunwood = true
-			moonwood = true
-			hallowood = true
-
 		[types.wood_type.colorfulazaleas]
 			tecal_azalea = true
 			fiss_azalea = true
@@ -291,6 +286,11 @@
 
 		[types.wood_type.meadow]
 			pine = true
+
+		[types.wood_type.primalmagick]
+			sunwood = true
+			moonwood = true
+			hallowood = true
 
 [entries]
 

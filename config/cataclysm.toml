@@ -10,7 +10,7 @@
 	#custombossbar(on/off)
 	"custombossbar(on/off)" = true
 	#BossMusic(on/off)
-	"BossMusic(on/off)" = true
+	"BossMusic(on/off)" = false
 
 ["Entity damage"]
 	#Void Rune's Damage
@@ -203,13 +203,13 @@
 	TheIncineratorCooldown = 400
 	#Wither Assault Shoulder Weapon's Missile Cooldown
 	#Range: 0 ~ 1000000
-	WASWMissileCooldown = 40
+	WASWMissileCooldown = 20
 	#Wither Assault Shoulder Weapon's Howitzer Cooldown
 	#Range: 0 ~ 1000000
-	WASWHowitzerCooldown = 100
+	WASWHowitzerCooldown = 50
 	#Void Assault Shoulder Weapon's Cooldown
 	#Range: 0 ~ 1000000
-	VASWCooldown = 120
+	VASWCooldown = 60
 	#Void Core's Cooldown
 	#Range: 0 ~ 1000000
 	VoidCoreCooldown = 160
