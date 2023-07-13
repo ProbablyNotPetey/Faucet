@@ -3,11 +3,11 @@
 
 
 ServerEvents.recipes(event => {
-    deleteMe.forEach(item => {
+    global.deleteMe.forEach(item => {
         event.remove({ output: item})
     })
 })
 
 ServerEvents.tags('item', event => {
-    event.removeAllTagsFrom(deleteMe)
+    event.removeAllTagsFrom(global.deleteMe)
 })

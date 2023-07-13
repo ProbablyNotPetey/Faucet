@@ -1,4 +1,5 @@
-const deleteMe = [
+global.deleteMe = [
+    //steel
     'mekanism:ingot_steel',
     'ad_astra:steel_ingot',
     'immersiveengineering:ingot_steel',
@@ -21,4 +22,22 @@ const deleteMe = [
     'thermal:steel_ingot', 
     'thermal:steel_gear',
 
+    //food
+    'candlelight:tomato_soup',
+    'bakery:small_cooking_pot',
+    'candlelight:cooking_pot',
+    'candlelight:cooking_pan',
+    'candlelight:dough',
+    'candlelight:pasta_raw',
+    'candlelight:tomato_seeds',
+    'candlelight:tomato',
+    'bakery:strawberry_crate',
+    'bakery:strawberry',
+    'bakery:strawberry_seeds',
+    'bakery:chocolate_cake',
+    'bakery:chocolate_cake_slice',
+    'thermal:chocolate_cake',
+    'bakery:strawberry_cake',
+    'bakery:strawberry_cake_slice',
+    'seasonals:sweet_berry_cake',
 ]

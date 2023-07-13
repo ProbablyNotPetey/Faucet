@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.1501644	Emendatus Enigmatica Block Tags
+// 1.19.2	2023-07-13T13:21:17.2541902	Emendatus Enigmatica Block Tags
 ea24417ddadd33c67239004089b77fc81855afad data/forge/tags/blocks/ores.json
 087c70c8ca143c7a455cddbd082cc90493689bdf data/forge/tags/blocks/ores/aluminum.json
 e59a6601138428b902e60c71f99b7164b6254f23 data/forge/tags/blocks/ores/apatite.json
@@ -12,7 +12,7 @@ b7494678bf6ea44b81996d7a431663e54560dab0 data/forge/tags/blocks/ores/lead.json
 8db9bc7aec0109bb4792c1bf7305ec8ad788c6eb data/forge/tags/blocks/ores_in_ground/deepslate.json
 ba7dc23c33b07c3137d2e0b54ad4e740101f1b8c data/forge/tags/blocks/ores_in_ground/moon.json
 e528d6b01147b545ea52d9614f4d685fdbda6b2a data/forge/tags/blocks/ores_in_ground/stone.json
-94e4734dab129f5cf3b07e7ced91f227614bd6f5 data/forge/tags/blocks/storage_blocks.json
+e8b78f63519bd9189729ab1870249703df053bf7 data/forge/tags/blocks/storage_blocks.json
 b68c74fe9eb756915affccb895d94e2736b13e40 data/forge/tags/blocks/storage_blocks/aluminum.json
 d2bdd38d8c6a67368d6cf893fddb4d20732e25e4 data/forge/tags/blocks/storage_blocks/apatite.json
 86afe004137e11fb7fe5c116391d4e2a712aa01e data/forge/tags/blocks/storage_blocks/brass.json
@@ -20,7 +20,6 @@ d2bdd38d8c6a67368d6cf893fddb4d20732e25e4 data/forge/tags/blocks/storage_blocks/a
 0cf0a3ccb3dfb1512e9bd01e8f4749059d5db98c data/forge/tags/blocks/storage_blocks/nickel.json
 03b159369070c02a6c2f361033543aa1126bc1e2 data/forge/tags/blocks/storage_blocks/osmium.json
 9c292533184b8a0e93c79e48960bcd496805579d data/forge/tags/blocks/storage_blocks/raw_aluminum.json
-a8d7b514e2ca8be3c20d6d91410f1515bff12c0f data/forge/tags/blocks/storage_blocks/raw_apatite.json
 ac6a2a39900f03e2acc2264c1aae0812e02b4b9c data/forge/tags/blocks/storage_blocks/raw_lead.json
 5da706022dff653039c9a9db08e4a52cc22871c6 data/forge/tags/blocks/storage_blocks/raw_nickel.json
 5bca6880f326821d46b9283594a4b8b1f5a61ad9 data/forge/tags/blocks/storage_blocks/raw_osmium.json

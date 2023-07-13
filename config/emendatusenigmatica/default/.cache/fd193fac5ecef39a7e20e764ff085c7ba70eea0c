@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.1951755	Emendatus Enigmatica Blockstates
+// 1.19.2	2023-07-13T13:21:17.2751916	Emendatus Enigmatica Blockstates
 da95725cdfbea18d95cf1705b7a1284eb512aa18 assets/emendatusenigmatica/blockstates/aluminum_block.json
 6ccb8fd4dd242418bb2b8d1174cdcde5e7ed5684 assets/emendatusenigmatica/blockstates/aluminum_deepslate_ore.json
 d209b0265f4017adc226562f8acd51863723e06e assets/emendatusenigmatica/blockstates/aluminum_moon_ore.json
@@ -21,7 +21,6 @@ c2843af07fcdd925f93b05f721a11c7ae0aa9604 assets/emendatusenigmatica/blockstates/
 ae410c92e5b3b27c5d889aefac4cbc1a3e40cb12 assets/emendatusenigmatica/blockstates/osmium_moon_ore.json
 945e316211df7f956ccad0ccc86d5c47aedda932 assets/emendatusenigmatica/blockstates/osmium_stone_ore.json
 32ecef05fa921fd5d1ea2645a666f3ccd34def9e assets/emendatusenigmatica/blockstates/raw_aluminum_block.json
-beefd292e6808373210c1a481725db506bed3e1e assets/emendatusenigmatica/blockstates/raw_apatite_block.json
 ecfb4ab34dd42f96142031a44333fb316eb14663 assets/emendatusenigmatica/blockstates/raw_lead_block.json
 7e85f7f62df607c48286615a0c837738fc1e87c3 assets/emendatusenigmatica/blockstates/raw_nickel_block.json
 18f4be1e7c1fec4c00873feed324e210c7f2de42 assets/emendatusenigmatica/blockstates/raw_osmium_block.json

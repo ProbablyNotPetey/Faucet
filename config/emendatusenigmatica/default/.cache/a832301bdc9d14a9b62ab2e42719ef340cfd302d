@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.2171823	Emendatus Enigmatica Item Models
+// 1.19.2	2023-07-13T13:21:17.2691878	Emendatus Enigmatica Item Models
 e787d08cc53f9e63f47b913e1a4348a5b05a1de7 assets/emendatusenigmatica/models/item/aluminum_block.json
 79941f2b695d43d8b822934a634c1b87a9f92e04 assets/emendatusenigmatica/models/item/aluminum_deepslate_ore.json
 b8b9cff5927a17f626f02a020b6a7008f9c06493 assets/emendatusenigmatica/models/item/aluminum_dust.json
@@ -57,8 +57,6 @@ b112005fd7f8199a7b31b90ebe58571309c2b208 assets/emendatusenigmatica/models/item/
 f4135899350e645ccfee880aac047446f6a0db81 assets/emendatusenigmatica/models/item/osmium_stone_ore.json
 5b1c40faa3289db72461f5c309fc88da0055a2e5 assets/emendatusenigmatica/models/item/raw_aluminum.json
 2ef0c4eb70a78fad25566ed68d74fe73174bdc84 assets/emendatusenigmatica/models/item/raw_aluminum_block.json
-3b5793836f73a08f5239184bffea7d0d40a34f32 assets/emendatusenigmatica/models/item/raw_apatite.json
-e7a131140bbf58f937e13eaf9bac664e515e752f assets/emendatusenigmatica/models/item/raw_apatite_block.json
 79c3c6e8b40a6f977965244ecc07cd7f0d5dbd27 assets/emendatusenigmatica/models/item/raw_lead.json
 bedc3bcd7e7b19dbd69f9608cc20d7a252444125 assets/emendatusenigmatica/models/item/raw_lead_block.json
 29f6ed8cc11030b84a90898ddbf7e99a928c51d2 assets/emendatusenigmatica/models/item/raw_nickel.json

@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.2131822	Emendatus Enigmatica Thermal Recipes
+// 1.19.2	2023-07-13T13:21:17.2491859	Emendatus Enigmatica Thermal Recipes
 19bb88706451eae0f04b3a8ffa371c07a2f0e1d3 data/emendatusenigmatica/recipes/dust/from_gem_pulverizer/apatite.json
 c40c7809a22c7c0975dfa7495375573b59343968 data/emendatusenigmatica/recipes/dust/from_ingot_pulverizer/aluminum.json
 d0500eec3fae2cc2a78653ae182315863a841199 data/emendatusenigmatica/recipes/dust/from_ingot_pulverizer/brass.json
@@ -74,7 +74,6 @@ fe59bf9bf77e809f75d1cb41a003ca9b3e153422 data/emendatusenigmatica/recipes/plate/
 849e3735f7609ef711fc78b925160bbfc44b1fc6 data/emendatusenigmatica/recipes/plate/from_ingot_press/uranium.json
 5d601db89bc8fba4ceac00535157b2e0bfe95615 data/emendatusenigmatica/recipes/plate/from_ingot_press/zinc.json
 fa27d7a79a9bc72bb5a60fa64d978105e3ed5cb8 data/emendatusenigmatica/recipes/raw/from_raw_block_press/aluminum.json
-84005b5653338e2c5912b41627dabc2953cd7362 data/emendatusenigmatica/recipes/raw/from_raw_block_press/apatite.json
 99214fdeb829a8258437b185e448b894b35a703a data/emendatusenigmatica/recipes/raw/from_raw_block_press/lead.json
 b9ea0709e0515d088b732ffde8ca2c5b579b3964 data/emendatusenigmatica/recipes/raw/from_raw_block_press/nickel.json
 da92ec6aa60a1becb70e59a1bf9b009a39ca5b94 data/emendatusenigmatica/recipes/raw/from_raw_block_press/osmium.json
@@ -83,7 +82,6 @@ a140045d2693561c7443aec57143275bceec47b5 data/emendatusenigmatica/recipes/raw/fr
 322d967b5f7420330b3e86418f686609fecaae80 data/emendatusenigmatica/recipes/raw/from_raw_block_press/uranium.json
 d9c4f69e88132f806c0e717af7bc52247c43283a data/emendatusenigmatica/recipes/raw/from_raw_block_press/zinc.json
 236c5cdd8a748578b2311eb7c0e5f8a60a2d1f46 data/emendatusenigmatica/recipes/raw_block/from_raw_press/aluminum.json
-6897c2c54104b50a9d12b4f992d9961899afe081 data/emendatusenigmatica/recipes/raw_block/from_raw_press/apatite.json
 cc334173bb1be74a09492094fc24169b9b36ebb8 data/emendatusenigmatica/recipes/raw_block/from_raw_press/lead.json
 99e23ff4c9f3aa390ddec2b87d643295e834a581 data/emendatusenigmatica/recipes/raw_block/from_raw_press/nickel.json
 8820bf43cf24c598f8f266cbe1f7b9d5c9b69da9 data/emendatusenigmatica/recipes/raw_block/from_raw_press/osmium.json

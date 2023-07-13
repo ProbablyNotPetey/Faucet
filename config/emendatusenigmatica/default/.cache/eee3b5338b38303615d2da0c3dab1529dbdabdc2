@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.1521652	EE Mekanism Addon Recipes
+// 1.19.2	2023-07-13T13:21:17.2591878	EE Mekanism Addon Recipes
 c6ebd1deaa3af7fe357eae3a4fcdf776c9edad58 data/emendatusenigmatica/recipes/clump/from_ore/aluminum.json
 5a7c5559fa6122ece755736fb1c68c5a183bdffa data/emendatusenigmatica/recipes/clump/from_ore/apatite.json
 5190e495d930627aa9e00f1b1b5e09ea3f35927e data/emendatusenigmatica/recipes/clump/from_ore/lead.json
@@ -9,7 +9,6 @@ c3ea83a1d1990f44a32940f743464257630c4757 data/emendatusenigmatica/recipes/clump/
 8b2bc8ae925c9d16e7b5e4bb60f70d170011a1c8 data/emendatusenigmatica/recipes/clump/from_ore/uranium.json
 6030495e6f4ccd2ace908f83b46bd60d3419b203 data/emendatusenigmatica/recipes/clump/from_ore/zinc.json
 6f1537b7594e6065d2f703cc9b05d06b35a829a4 data/emendatusenigmatica/recipes/clump/from_raw/aluminum.json
-53bd275613a9cbcf6b51626a7aa73dc525ea42a2 data/emendatusenigmatica/recipes/clump/from_raw/apatite.json
 faa728dd5824843bd39429a04cdbd5ae06ed5adc data/emendatusenigmatica/recipes/clump/from_raw/lead.json
 3721968e03529ce28af4d02eaf324515903acfe3 data/emendatusenigmatica/recipes/clump/from_raw/nickel.json
 2b228e46c76a39534f88e0d011615c259b89ebae data/emendatusenigmatica/recipes/clump/from_raw/osmium.json
@@ -18,7 +17,6 @@ faa728dd5824843bd39429a04cdbd5ae06ed5adc data/emendatusenigmatica/recipes/clump/
 da274f09040dfc7dd8d079531ba445133368a3a4 data/emendatusenigmatica/recipes/clump/from_raw/uranium.json
 444cdc84abb72bf09c76a4fd5aa4a55badc7bc94 data/emendatusenigmatica/recipes/clump/from_raw/zinc.json
 3c65666263d2aaaebfd84e08ce294ebdbc6ad443 data/emendatusenigmatica/recipes/clump/from_raw_block/aluminum.json
-0a82d0810b33d6ee630e57f0036e37cbf377481f data/emendatusenigmatica/recipes/clump/from_raw_block/apatite.json
 2a2f19dd48ad01cf3540182c445a0f63d9539621 data/emendatusenigmatica/recipes/clump/from_raw_block/lead.json
 ab8c77a5a7a8ce77f5366038dbb100df582e13ff data/emendatusenigmatica/recipes/clump/from_raw_block/nickel.json
 29db9cc40256747b53f4756d0cd63c847258f474 data/emendatusenigmatica/recipes/clump/from_raw_block/osmium.json
@@ -81,7 +79,6 @@ a6c1e3d16c9789d4afe9a8b8454471016a245aec data/emendatusenigmatica/recipes/shard/
 826dc079f482557ad01ed8890206c4f0d2eba509 data/emendatusenigmatica/recipes/shard/from_ore/uranium.json
 494df609a32e4d7aed46d52e4d0bf445579e58fb data/emendatusenigmatica/recipes/shard/from_ore/zinc.json
 ad578f68e63ab2b7672a0d90d1ec0d69fa2ddcfa data/emendatusenigmatica/recipes/shard/from_raw/aluminum.json
-ab9014bf3cca5d9cfa10479dc4a55c8aae630bc3 data/emendatusenigmatica/recipes/shard/from_raw/apatite.json
 7d980c634cd15c69907eca7aaeab4a1b57bb6c94 data/emendatusenigmatica/recipes/shard/from_raw/lead.json
 5a4759812d32bfbcb69647aa6ab405bdd8ebceaf data/emendatusenigmatica/recipes/shard/from_raw/nickel.json
 0ace3f7a6e6b8015b442f47df08a1c6923a30765 data/emendatusenigmatica/recipes/shard/from_raw/osmium.json
@@ -90,7 +87,6 @@ ab9014bf3cca5d9cfa10479dc4a55c8aae630bc3 data/emendatusenigmatica/recipes/shard/
 78077d5101931550e1df1991f187a22d26388946 data/emendatusenigmatica/recipes/shard/from_raw/uranium.json
 6493a8d3b321dfc26a692f92fb99fa1a65ef5666 data/emendatusenigmatica/recipes/shard/from_raw/zinc.json
 d046dd8bf1488571052d68cf47fdb042f1c2aa35 data/emendatusenigmatica/recipes/shard/from_raw_block/aluminum.json
-cf62cb73681bd55a502cb3b89acab7f73a1d91ae data/emendatusenigmatica/recipes/shard/from_raw_block/apatite.json
 dae92d8212219ffa362fafacba37f6c316a72b7a data/emendatusenigmatica/recipes/shard/from_raw_block/lead.json
 8b3660c5af537a5cc5b6078455a615105a4ce6da data/emendatusenigmatica/recipes/shard/from_raw_block/nickel.json
 159efb4f600ffc9c38f62c71e8da231d299dbdb1 data/emendatusenigmatica/recipes/shard/from_raw_block/osmium.json
@@ -117,7 +113,6 @@ dfc455d7cac093c5252b47c99b625da5b661dc92 data/emendatusenigmatica/recipes/slurry
 f137778694955a754d4c41d6b8bb5800e318430a data/emendatusenigmatica/recipes/slurry/dirty/from_ore/uranium.json
 1c5c71dc8cd628cb98d8fd071961926a6c8b5643 data/emendatusenigmatica/recipes/slurry/dirty/from_ore/zinc.json
 d5585b16ae2075992cadd910be748121979d91c8 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/aluminum.json
-01ec8279537fc1fc4df919d4d85d652c1582a6f0 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/apatite.json
 04127ced55e5386170baefe7a0d1eba615222ca7 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/lead.json
 7fd7803213d811aebfa002f037b2df32c51a6898 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/nickel.json
 0adebbb52fe318ae064e7812da23377751b36c54 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/osmium.json
@@ -126,7 +121,6 @@ a704168e2f9dd5d97497322ba613a8623333defc data/emendatusenigmatica/recipes/slurry
 a13a03aba4fb9445cce5c138728998b791b1ebf2 data/emendatusenigmatica/recipes/slurry/dirty/from_raw/uranium.json
 3dc6e24ce0ba88e68c07c073660b9556d8ae43cd data/emendatusenigmatica/recipes/slurry/dirty/from_raw/zinc.json
 66cd4d2623b4eb47b1d7790d9a1a77184e6c13c9 data/emendatusenigmatica/recipes/slurry/dirty/from_raw_block/aluminum.json
-c25c9f6d3dcd911f269cb6494cfb65ce3d0f053a data/emendatusenigmatica/recipes/slurry/dirty/from_raw_block/apatite.json
 928aab59bf4a40ac024cb1798536bb9e00ad9c4e data/emendatusenigmatica/recipes/slurry/dirty/from_raw_block/lead.json
 b88373afd3b9d0f00cb5f0d988021c73a56b6558 data/emendatusenigmatica/recipes/slurry/dirty/from_raw_block/nickel.json
 e71b3e78f3df1a7ad80a4fe3614676c08b72f467 data/emendatusenigmatica/recipes/slurry/dirty/from_raw_block/osmium.json

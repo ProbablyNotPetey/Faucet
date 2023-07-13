@@ -90,5 +90,8 @@ to make editing this file much easier.
 		"darkerdepths:silver_ore" : "minecraft:stone",
 		"darkerdepths:aridrock_silver_ore" : "darkerdepths:aridrock",
 		"darkerdepths:limestone_silver_ore" : "darkerdepths:limestone",
+		"candlelight:tomatoes_wild" : "minecraft:air",
+		"bakery:strawberry_taiga" : "minecraft:air",
+		"bakery:strawberry_jungle" : "minecraft:air"
 	}
 }

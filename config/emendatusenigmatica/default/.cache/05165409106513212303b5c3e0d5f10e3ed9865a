@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.2181826	Emendatus Enigmatica LootTables
+// 1.19.2	2023-07-13T13:21:17.2751916	Emendatus Enigmatica LootTables
 7ec27fa04715a0254f7efa45e6db46326586f318 data/emendatusenigmatica/loot_tables/blocks/aluminum_block.json
 4190d2c913ae7174fb1c1a7486007adb896ae1a5 data/emendatusenigmatica/loot_tables/blocks/aluminum_deepslate_ore.json
 b618ccbda6c3e0ec1fac29fa0db6831f165aaf4e data/emendatusenigmatica/loot_tables/blocks/aluminum_moon_ore.json
@@ -21,7 +21,6 @@ d45ed6f916f68639e1778833b3c1620ca2abb49d data/emendatusenigmatica/loot_tables/bl
 fb6132951ec48fa8a2afc152dcccba6089472c62 data/emendatusenigmatica/loot_tables/blocks/osmium_moon_ore.json
 6faa8bfc55cbcef27d255347d0cc9337f78e01fc data/emendatusenigmatica/loot_tables/blocks/osmium_stone_ore.json
 0cded2d47dd731862446d0232ad96508d9d6fd31 data/emendatusenigmatica/loot_tables/blocks/raw_aluminum_block.json
-262c185aed16e6ab4c9d742a6ee127169ae99486 data/emendatusenigmatica/loot_tables/blocks/raw_apatite_block.json
 127579a334188b19f70a7a1e20b84d6c810313c0 data/emendatusenigmatica/loot_tables/blocks/raw_lead_block.json
 9850a0af6a78182031f7009f5c9a44f3638c3f18 data/emendatusenigmatica/loot_tables/blocks/raw_nickel_block.json
 65d54b97a23f0455c14c88f64736304b5a02c13d data/emendatusenigmatica/loot_tables/blocks/raw_osmium_block.json

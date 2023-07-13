@@ -1,4 +1,4 @@
-// 1.19.2	2023-07-13T11:33:41.1981757	EE Occultism Addon Recipes
+// 1.19.2	2023-07-13T13:21:17.2731896	EE Occultism Addon Recipes
 8b07ece9b51f3d02e58b94c8c47d893affaefff7 data/emendatusenigmatica/recipes/dust/from_ingot_crusher_spirit/aluminum.json
 763b65538b048993390212029a62c595868eb505 data/emendatusenigmatica/recipes/dust/from_ingot_crusher_spirit/brass.json
 9d0170bdafe322e0e0967b08d5374f49b5dbaeb4 data/emendatusenigmatica/recipes/dust/from_ingot_crusher_spirit/lead.json
@@ -19,7 +19,6 @@ d245f094cfa76c20898837254007955c8bc4ca6e data/emendatusenigmatica/recipes/dust/f
 28578d04adb6c4872a2cfd7d7f106a3735ffcc42 data/emendatusenigmatica/recipes/dust/from_ore_crusher_spirit/uranium.json
 96c142ca38857ed4c1e3e959ef1d7ea1bbed01df data/emendatusenigmatica/recipes/dust/from_ore_crusher_spirit/zinc.json
 ef8155c6d16567bff4c0c02edd60b46c0f389253 data/emendatusenigmatica/recipes/dust/from_raw_crusher_spirit/aluminum.json
-f4d2dd0aaa95dc5bf12908a002ede0bc0debc423 data/emendatusenigmatica/recipes/dust/from_raw_crusher_spirit/apatite.json
 92da5177fe5ce09664cf33209ca76117e6bfbaf4 data/emendatusenigmatica/recipes/dust/from_raw_crusher_spirit/lead.json
 279f943845d3126a91cfe6fffeb308a6ff24914f data/emendatusenigmatica/recipes/dust/from_raw_crusher_spirit/nickel.json
 bd7a851640d8bd8ba3b11bb94bd2025a4152900b data/emendatusenigmatica/recipes/dust/from_raw_crusher_spirit/osmium.json

@@ -140,9 +140,6 @@
 			runic = true
 			radiant = true
 
-		[types.leaves_type.meadow]
-			pine = true
-
 		[types.leaves_type.twilightdelight]
 			ironwood = true
 
@@ -268,9 +265,6 @@
 
 		[types.wood_type.eidolon]
 			illwood = true
-
-		[types.wood_type.meadow]
-			pine = true
 
 		[types.wood_type.primalmagick]
 			sunwood = true
