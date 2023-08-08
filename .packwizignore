@@ -13,8 +13,7 @@
 # Exclude config files with constantly updating dates (why?)
 /config/libraryferret_1.properties
 /config/bettervillage_1.properties
-/config/roughlyenoughitems/pinyin.properties
-/config/roughlyenoughitems/pinyin_double.properties
+/config/roughlyenoughitems/
 /config/oculus.properties
 /config/sound_physics_remastered/
 /config/xaerominimap_entities.json

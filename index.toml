@@ -4143,6 +4143,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "3a698f901d9b1e76f8a75b534daa0b865a54cb898c8275ad06bd450387f93d5d"
+metafile = true
+
+[[files]]
 file = "mods/dank-storage.pw.toml"
 hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
@@ -4300,6 +4305,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "4a1440dbaf4e209501152ab6cd969d7b565617f79a0ef069e2d3ebcbbe3de57d"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "9b3162e44faca78512eb708f77ca1a5aa37319cdc203fbe79907d533c0380135"
 metafile = true
 
 [[files]]
@@ -4623,6 +4633,11 @@ hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "c0c0417ef75c6d3426d726942262c484d915c36668e8110a4e3f2ba610873614"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "f7452c4665f0e8c93438deaae53632f4d7dd155f3222456fa4aa195ed2e73756"
 metafile = true
@@ -4630,6 +4645,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "221e263833f86918f6037b416b332677f76a068f58f4d859a6102eaa966c2582"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "03b0e36df44e5781e0ff4bd42d2914882ec763000d323320a7aa8b89ad6273bd"
 metafile = true
 
 [[files]]
