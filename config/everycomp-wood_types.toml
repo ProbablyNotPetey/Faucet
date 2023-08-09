@@ -8,11 +8,6 @@
 			willow = true
 			witch_hazel = true
 
-		[types.leaves_type.vinery]
-			grapevine = true
-			cherry = true
-			apple = true
-
 		[types.leaves_type.culturaldelights]
 			avocado = true
 			fruiting_avocado = true
@@ -20,9 +15,6 @@
 		[types.leaves_type.environmental]
 			willow = true
 			cherry = true
-
-		[types.leaves_type.upgrade_aquatic]
-			river = true
 
 		[types.leaves_type.atmospheric]
 			rosewood = true
@@ -57,13 +49,6 @@
 			aurum = true
 			nuggety_aurum = true
 
-		[types.leaves_type.windswept]
-			holly = true
-			chestnut = true
-
-		[types.leaves_type.nethers_exoticism]
-			jaboticaba = true
-
 		[types.leaves_type.architects_palette]
 			twisted = true
 
@@ -73,29 +58,8 @@
 			purple_archwood = true
 			red_archwood = true
 
-		[types.leaves_type.twilightforest]
-			beanstalk = true
-			thorn = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
-		[types.leaves_type.occultism]
-			otherworld = true
-
 		[types.leaves_type.ad_astra]
 			glacian = true
-
-		[types.leaves_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
 
 		[types.leaves_type.hexcasting]
 			amethyst_edified = true
@@ -104,13 +68,6 @@
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
-
-		[types.leaves_type.naturesaura]
-			ancient = true
-			golden = true
-
-		[types.leaves_type.totemic]
-			cedar = true
 
 		[types.leaves_type.colorfulazaleas]
 			blue_azalea = true
@@ -135,16 +92,8 @@
 			yellow_blooming_azalea = true
 			yellow_flowering_azalea = true
 
-		[types.leaves_type.solarcraft]
-			ash = true
-			runic = true
-			radiant = true
-
-		[types.leaves_type.twilightdelight]
-			ironwood = true
-
-		[types.leaves_type.primalmagick]
-			hallowood = true
+		[types.leaves_type.evilcraft]
+			undead = true
 
 	[types.wood_type]
 
@@ -168,9 +117,6 @@
 			willow = true
 			witch_hazel = true
 
-		[types.wood_type.vinery]
-			cherry = true
-
 		[types.wood_type.extendedmushrooms]
 			mushroom = true
 			glowshroom = true
@@ -181,10 +127,6 @@
 			willow = true
 			cherry = true
 			wisteria = true
-
-		[types.wood_type.upgrade_aquatic]
-			driftwood = true
-			river = true
 
 		[types.wood_type.atmospheric]
 			rosewood = true
@@ -203,14 +145,6 @@
 			aurum = true
 			edelwood = true
 
-		[types.wood_type.windswept]
-			holly = true
-			chestnut = true
-
-		[types.wood_type.nethers_exoticism]
-			jabuticaba = true
-			ramboutan = true
-
 		[types.wood_type.architects_palette]
 			twisted = true
 
@@ -222,33 +156,12 @@
 			strophar = true
 			glacian = true
 
-		[types.wood_type.twilightforest]
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
-		[types.wood_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
-
 		[types.wood_type.hexcasting]
 			edified = true
 
 		[types.wood_type.botania]
 			livingwood = true
 			dreamwood = true
-
-		[types.wood_type.naturesaura]
-			ancient = true
-
-		[types.wood_type.totemic]
-			cedar = true
 
 		[types.wood_type.colorfulazaleas]
 			tecal_azalea = true
@@ -259,17 +172,11 @@
 			walnut_azalea = true
 			titanium_azalea = true
 
-		[types.wood_type.solarcraft]
-			runic = true
-			radiant = true
-
 		[types.wood_type.eidolon]
 			illwood = true
 
-		[types.wood_type.primalmagick]
-			sunwood = true
-			moonwood = true
-			hallowood = true
+		[types.wood_type.evilcraft]
+			undead = true
 
 [entries]
 
@@ -322,10 +229,4 @@
 			board_slab = true
 			boards = true
 			board_wall = true
-
-		[entries.wood_type.twilightforest]
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
-			banister = true
-			hollow_log_climbable = true
 
