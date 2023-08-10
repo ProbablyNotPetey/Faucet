@@ -3765,11 +3765,6 @@ hash = "6f88d5b5d875587ef344b8d75f79bece511675ec80d10b7f5d19f0be2f7a5ca9"
 metafile = true
 
 [[files]]
-file = "mods/additional-additions-forge.pw.toml"
-hash = "799a68af763eaffd51771cb3bab81e9f1cfd5f333b0b36f04522ba1bc30fed2d"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -3832,11 +3827,6 @@ metafile = true
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "f61a1570bc5af4372483bb4eb5172c82d0590b80c603d5dab19117eae84a4d17"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
 metafile = true
 
 [[files]]
@@ -4095,11 +4085,6 @@ hash = "e33a486f1ee33763ca54530f2c1c98597040ff2fff03a27cb83702b6ce93a3e3"
 metafile = true
 
 [[files]]
-file = "mods/create-modern-train-parts.pw.toml"
-hash = "2230c9283b87ecd6f84a0d6e0764dffb7d81bfb8ad15095c20f7dd092d1cd5cd"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "6947155bf1ded4ed97e11e0c5b113266d706612f3b986adb297ec890681d881c"
 metafile = true
@@ -4182,11 +4167,6 @@ metafile = true
 [[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "6f8c767deb9505328c7f19932d2e1ca1cd10f9ef7b6a297be337aca9db6c5886"
-metafile = true
-
-[[files]]
-file = "mods/dusty-decorations.pw.toml"
-hash = "f563c894d102904128aa2c7b7fe96923d23a308b93371dfe9c77d1e126f7dbab"
 metafile = true
 
 [[files]]
@@ -4292,11 +4272,6 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "d84b2241468deba7bf5cf40a9fbdc5bf5b7655f3ef7846e7f4e5e76c105e8a0c"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "4a1440dbaf4e209501152ab6cd969d7b565617f79a0ef069e2d3ebcbbe3de57d"
 metafile = true
 
 [[files]]
@@ -5062,11 +5037,6 @@ metafile = true
 [[files]]
 file = "mods/thermaloot.pw.toml"
 hash = "15062850b541beb73b811e38713e37a5ad5a10b2a94a8db27fe710543602f06f"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.pw.toml"
-hash = "e90e97e2cd623bf9f4e91f7a73510358a1ddd522156929e9b7dde3a3f3cc25de"
 metafile = true
 
 [[files]]
