@@ -142,7 +142,7 @@ hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "bde7b5c7a12212511d0d7ff42bdfd286c8ef55762e610c45521f083c9b5a1935"
+hash = "558153338c776565b15ede0a7678a3f54a533bc3e08e2a24386d33610ab30ba3"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -1473,6 +1473,10 @@ file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
 [[files]]
+file = "config/cyclopscore-common.toml"
+hash = "fcd10c95db0ab30282335829235828fb73d39b311a51a87ba049b4d737739b0f"
+
+[[files]]
 file = "config/dankstorage-client.toml"
 hash = "cad1e17bed9ea16a22e0ea9e1ff1c114ed84daabda7b030fe28b46a6c35a2d17"
 
@@ -1487,10 +1491,6 @@ hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 [[files]]
 file = "config/delightful-common.toml"
 hash = "23bcca5e19af364e6c2146141f2e61f2662709f83aa36fe92dec2fc38a229782"
-
-[[files]]
-file = "config/doapi/recipebook.json5"
-hash = "e79155bb3698c317bea2c3daf5ff66d85f3431e2a2563e5dac06f9093218395b"
 
 [[files]]
 file = "config/dreamland-common.toml"
@@ -1589,10 +1589,6 @@ file = "config/emendatusenigmatica/material/lead.json"
 hash = "b402b03a6d1f6930f6008eff76b39d6e781a4967bd4a3e0b944b4312ac2a5ec3"
 
 [[files]]
-file = "config/emendatusenigmatica/material/material.zip"
-hash = "5a4700fcbf0a1742afd308394faff84e91c2827bb332a2ee7c048ec1f918e21b"
-
-[[files]]
 file = "config/emendatusenigmatica/material/nickel.json"
 hash = "b77f87d377542ef4515c0ce9d0784a0d814bbe995f51865d0909ce4bcd8b2dac"
 
@@ -1666,7 +1662,7 @@ hash = "e8fb47e39698228e5174579c31e8b97aa632c37eccebe83b48ff7f428fcce947"
 
 [[files]]
 file = "config/everycomp-wood_types.toml"
-hash = "06cfc06f69b4104be1a7da310437add5a7044280a0188b7bd6f73a0fc46da045"
+hash = "c76f21cb7c06708c4f504d3127a1356eeeaa0df3ed522d464f0547619bdfd6d7"
 
 [[files]]
 file = "config/extractinator.toml"
@@ -1921,6 +1917,10 @@ file = "config/neapolitan-common.toml"
 hash = "a23d61a0d31f12af9e45f1b35d63cf7744a2eb7362aae88ae75337ac007a5b19"
 
 [[files]]
+file = "config/nightconfigfixes.toml"
+hash = "6bef543d9d16fdbf8ff4d0ed21a6ef91db78c52aa89efcd9a2ba56cbb18a4be2"
+
+[[files]]
 file = "config/occultism-client.toml"
 hash = "0320ce8d1a0f91f3d1aefbd75fd0ce0f87043f54681815f9f3b62298061ef65e"
 
@@ -2121,6 +2121,10 @@ file = "config/openloader/data/faucetCustomData/data/supplementaries/loot_tables
 hash = "756318ad96090e8a592df9d71a7579cc949c792604f98af299868297ec9142e5"
 
 [[files]]
+file = "config/openloader/data/faucetCustomData/data/thermal/loot_modifiers/seeds_from_grass.json"
+hash = "19c6e5084219d4b618c6d62effc4943ba34f6cb630ec6127fdc7262cbb1883c1"
+
+[[files]]
 file = "config/openloader/data/faucetCustomData/data/thermal/worldgen/placed_feature/lead_ore.json"
 hash = "2a648e1ca9b2aa02137efa972702e0a86400d7b16255b0220ffa69378164ea9d"
 
@@ -2237,14 +2241,6 @@ file = "config/respiteful-common.toml"
 hash = "a4cd339aabcfc2b2dd64eb8c8725e86323e98536191d21f7c066a874e65d7af8"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "b9be57efcbde05f3cbd03d99aec14315a859819aba10a631690e6d2891668f20"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "7f50a71a7ca72eef76faff37e17740556577cfc558983262d8cacff6135b8ca3"
-
-[[files]]
 file = "config/rpggods-common.toml"
 hash = "96fc27a382eed02fb1151b9f688ca2cb6703fcf2a4392a82cc5200019c6a81ce"
 
@@ -2274,7 +2270,7 @@ hash = "405a1fd47de7572ceffeba414ef9f3ae7f3c2e6533b3962ec95d08da42e429bd"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "33c7071e289295153b0457303c2d903f24d538ab9d10fdcf959e2a1cccd819ed"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/simplyswords/backupconfig.json"
@@ -2441,10 +2437,6 @@ file = "config/toughasnails/thirst.toml"
 hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
-file = "config/towns_and_towers/resources/t_and_t_waystones_patch_1.19.2.zip"
-hash = "06f47bd0839fb1c2ab27a34d277fda83db1c67d2602c70a43aa7b8eb0a4d8915"
-
-[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
 hash = "976226b85369094bbcf6b21aaa1067f6efec0cc46142872f2b55c4f3f94c61df"
 
@@ -2526,7 +2518,7 @@ hash = "78cc1b0f23ddfaff7522ef7ddeef1d089070f123beb83c5ec97b6bf4d1ca3631"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "d89b26ace3985a6c7b84c28e7d1091f07be7e1dde455eb1ea8b8f8518160f1e7"
+hash = "3aca01e2b19a4a825b7b1c4fc7876f1d65e77c028695ccc429c08e3c51ca7eca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2534,7 +2526,7 @@ hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "e32e7afc1f721f2f6d98dd02c6ef06b8efd088b4229b73e797c5620b18005d96"
+hash = "72310f618d184e92bc5f2a6568cd9035d90e3484d26c6feb51f634a647106df2"
 
 [[files]]
 file = "defaultconfigs/extendedmushrooms-server.toml"
@@ -2695,6 +2687,10 @@ hash = "93bc99c93c55183b4bd19be411218371efb9aa2bbdef5677ab08e73e646920db"
 [[files]]
 file = "kubejs/assets/emendatusenigmatica/textures/blocks/raw_tin_block.png"
 hash = "7e8a2ded13bffe97951a1b9835543ed85cfe4c8af7a42df790601ac0dae2c053"
+
+[[files]]
+file = "kubejs/assets/emendatusenigmatica/textures/blocks/raw_uranium_block.png"
+hash = "476ea86fd61654a0855543068b3d2258014fe90ce09cc6f566e97981813713f8"
 
 [[files]]
 file = "kubejs/assets/emendatusenigmatica/textures/blocks/raw_zinc_block.png"
@@ -3334,7 +3330,7 @@ hash = "45e1b19b050e90b6ae615aa622b8bdc8068181369ac0d04f80b792f0b4ce5ac3"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "ab5223916e1dd7535371eff9c09096087f314d267ce4cb8bee091973fdaf0baa"
+hash = "7aa02c8e89005ec89811b812a5605a407a0dc0c3cac18f2cdffd213cbb11ef41"
 
 [[files]]
 file = "kubejs/config/probejs.json"
@@ -3734,7 +3730,7 @@ hash = "ed08b0c0cf76af9cf4474fc686a71a0b0c2bc5f198412d8f4a8b4f2a7d41a83b"
 
 [[files]]
 file = "kubejs/server_scripts/constants.js"
-hash = "b1fecf77a2b731e813ff065f5499127bd33109538535dc90405b0566cdedc094"
+hash = "b73a758896a69bd26f99eb4fa2fd7041fee16a18343d5d007ec96c2ed9742f57"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/lets_do_mods.js"
@@ -3747,10 +3743,6 @@ hash = "b63afa1ef17b064f3eb36e7e8f2b7ad116688d22436547030af2c0d978f4b30f"
 [[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "33e20c51d268aacf63fab2fae6ee5245eefce19695e2bf21728aad9ee7f801ac"
-
-[[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -4449,7 +4441,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "10163c08f768d3a59410e31722f3b76fbdc14471513bf61f75ca9a659f684766"
+hash = "b0dc9c5e477a5d53a0c898bb2e4cee7af999c69411d7d35df3d20671cc061b35"
 metafile = true
 
 [[files]]
