@@ -3899,7 +3899,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-scalaes.pw.toml"
-hash = "f80248fcd889c0231e90499b7e3339fe765d0362fcabc8e120bbe497804b632b"
+hash = "52281a96bedfdeb58075435d95176763ac903d74f0321eb47a0cf2c2b037a837"
 metafile = true
 
 [[files]]
@@ -4728,6 +4728,11 @@ hash = "9a961cd5033f25bb75709a7f58023f207467ad38af6ecc2e3783b390c7e22508"
 metafile = true
 
 [[files]]
+file = "mods/night-config-fixes.pw.toml"
+hash = "b8d9b1c62cf02244ac0481892278e22d2c87aa046abcd3c6f1fd13ca2271b8ec"
+metafile = true
+
+[[files]]
 file = "mods/nyctophobia-forge.pw.toml"
 hash = "11168fa5ee9a465fb57f2375f0ed28a27d60a7a5c1be5327aae3868bd443d79f"
 metafile = true
@@ -4859,12 +4864,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
+hash = "f334f951f66117769c22b5836ca820475464028e3ece4b11e43a1f85062fac1b"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1e84c75519192f7a60914a983acf6c3211e12e6b09c516098c7ad90f52f2f0dd"
+hash = "9ae31f99a93e2bf5cc595f9527ad999f2b36dcfaa71f06144a7490d9ef412ad2"
 metafile = true
 
 [[files]]

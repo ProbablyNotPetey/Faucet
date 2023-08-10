@@ -92,8 +92,59 @@
 			yellow_blooming_azalea = true
 			yellow_flowering_azalea = true
 
-		[types.leaves_type.evilcraft]
-			undead = true
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
+		[types.leaves_type.naturesaura]
+			ancient = true
+			golden = true
+
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+
+		[types.leaves_type.totemic]
+			cedar = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.primalmagick]
+			hallowood = true
+
+		[types.leaves_type.twilightdelight]
+			ironwood = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			cherry = true
+			apple = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.solarcraft]
+			ash = true
+			runic = true
+			radiant = true
 
 	[types.wood_type]
 
@@ -172,11 +223,50 @@
 			walnut_azalea = true
 			titanium_azalea = true
 
-		[types.wood_type.eidolon]
-			illwood = true
+		[types.wood_type.nethers_exoticism]
+			jabuticaba = true
+			ramboutan = true
 
-		[types.wood_type.evilcraft]
-			undead = true
+		[types.wood_type.naturesaura]
+			ancient = true
+
+		[types.wood_type.windswept]
+			holly = true
+			chestnut = true
+
+		[types.wood_type.totemic]
+			cedar = true
+
+		[types.wood_type.primalmagick]
+			sunwood = true
+			moonwood = true
+			hallowood = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.vinery]
+			cherry = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.solarcraft]
+			runic = true
+			radiant = true
 
 [entries]
 
@@ -229,4 +319,10 @@
 			board_slab = true
 			boards = true
 			board_wall = true
+
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
 
