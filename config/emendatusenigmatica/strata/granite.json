@@ -1,0 +1,10 @@
+{
+    "id": "granite",
+    "baseTexture": "minecraft:block/granite",
+    "suffix": "granite",
+    "fillerType": "minecraft:granite",
+    "localizedName": "Granite",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

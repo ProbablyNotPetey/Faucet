@@ -1,0 +1,10 @@
+{
+    "id": "diorite",
+    "baseTexture": "minecraft:block/diorite",
+    "suffix": "diorite",
+    "fillerType": "minecraft:diorite",
+    "localizedName": "Diorite",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}
