@@ -92,6 +92,13 @@ to make editing this file much easier.
 		"darkerdepths:limestone_silver_ore" : "darkerdepths:limestone",
 		"candlelight:tomatoes_wild" : "minecraft:air",
 		"bakery:strawberry_taiga" : "minecraft:air",
-		"bakery:strawberry_jungle" : "minecraft:air"
+		"bakery:strawberry_jungle" : "minecraft:air",
+		"eidolon:deep_silver_ore" : "minecraft:deepslate",
+		"eidolon:deep_lead_ore" : "minecraft:deepslate",
+		"eidolon:silver_ore" : "minecraft:stone",
+		"eidolon:lead_ore" : "minecraft:stone",
+		"malum:soulstone_ore" : "minecraft:stone",
+		"malum:deepslate_soulstone_ore" : "minecraft:deepslate",
+		"primalmagick:quartz_ore" : "minecraft:stone"
 	}
 }

@@ -1,0 +1,42 @@
+{
+    "type": "emendatusenigmatica:dense_deposit",
+    "dimension": "minecraft:overworld",
+    "biomes": [],
+    "registryName": "silver_dense_deposit",
+    "config": {
+        "blocks": [
+            {
+                "material": "silver",
+                "weight": 12
+            },
+            {
+                "block": "emendatusenigmatica:raw_silver_block",
+                "weight": 1
+            }
+        ],
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 70,
+        "size": 40,
+        "minYLevel": -63,
+        "maxYLevel": 0,
+        "placement": "uniform",
+        "rarity": "rare",
+        "generateSamples": false
+    }
+}

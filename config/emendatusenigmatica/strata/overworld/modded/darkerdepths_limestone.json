@@ -1,0 +1,10 @@
+{
+    "id": "darkerdepths_limestone",
+    "baseTexture": "darkerdepths:block/limestone",
+    "suffix": "darkerdepths_limestone",
+    "fillerType": "darkerdepths:limestone",
+    "localizedName": "Limestone",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

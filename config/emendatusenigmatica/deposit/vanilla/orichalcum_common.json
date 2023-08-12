@@ -1,0 +1,34 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "minecraft:overworld",
+    "registryName": "orichalcum_common_vanilla_deposit",
+    "biomes": [
+        "ars_nouveau:archwood_forest"
+    ],
+    "config": {
+        "material": "orichalcum",
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 10,
+        "size": 6,
+        "minYLevel": -63,
+        "maxYLevel": 15,
+        "placement": "uniform",
+        "rarity": "common"
+    }
+}

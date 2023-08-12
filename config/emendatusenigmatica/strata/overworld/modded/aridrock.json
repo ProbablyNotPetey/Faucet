@@ -1,0 +1,10 @@
+{
+    "id": "aridrock",
+    "baseTexture": "darkerdepthsk/aridrock",
+    "suffix": "aridrock",
+    "fillerType": "darkerdepths:aridrock",
+    "localizedName": "Aridrock",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

@@ -4491,7 +4491,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "a463facffd5846b27af6b959d406efa3d0f27eae4e15cdf2a68e3f3afe665142"
+hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
 metafile = true
 
 [[files]]
@@ -4721,7 +4721,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
 metafile = true
 
 [[files]]
@@ -5102,6 +5102,11 @@ metafile = true
 [[files]]
 file = "mods/windsweptmod.pw.toml"
 hash = "16eda56715b810bb0924e1edae71230d4bc1118525d41a41bef6a155106329b2"
+metafile = true
+
+[[files]]
+file = "mods/world-stripper.pw.toml"
+hash = "2f5cedb50522e3c53e74b0e44813442adb19442f19717115f949c27fbde62f0d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,10 @@
+{
+    "id": "quark_limestone",
+    "baseTexture": "quark:block/limestone",
+    "suffix": "quark_limestone",
+    "fillerType": "quark:limestone",
+    "localizedName": "Gabbro",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

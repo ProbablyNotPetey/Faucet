@@ -1,0 +1,10 @@
+{
+    "id": "darkstone",
+    "baseTexture": "forbidden_arcanus:block/darkstone",
+    "suffix": "darkstone",
+    "fillerType": "forbidden_arcanus:darkstone",
+    "localizedName": "Darkstone",
+    "harvestTool": "pickaxe",
+    "hardness": 4.5,
+    "resistance": 8
+}

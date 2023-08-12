@@ -317,7 +317,7 @@
 		#normal fluorite vein Generation Settings.
 		[world_generation.fluorite.normal]
 			#Determines if normal fluorite veins should be added to world generation. Note: Requires generating fluorite ore to be enabled.
-			shouldGenerate = true
+			shouldGenerate = false
 			#Chance that normal fluorite veins generates in a chunk.
 			#Range: 1 ~ 256
 			perChunk = 5

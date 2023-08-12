@@ -1,0 +1,32 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "minecraft:overworld",
+    "registryName": "zinc_vanilla_deposit",
+    "biomes": [],
+    "config": {
+        "material": "zinc",
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 16,
+        "size": 12,
+        "minYLevel": 16,
+        "maxYLevel": 128,
+        "placement": "uniform",
+        "rarity": "common"
+    }
+}

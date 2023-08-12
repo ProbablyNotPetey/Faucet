@@ -1,0 +1,10 @@
+{
+    "id": "marble",
+    "baseTexture": "primalmagick:block/marble_raw",
+    "suffix": "marble",
+    "fillerType": "primalmagick:marble_raw",
+    "localizedName": "Marble",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

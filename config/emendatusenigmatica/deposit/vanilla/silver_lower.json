@@ -1,0 +1,32 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "minecraft:overworld",
+    "registryName": "silver_lower_vanilla_deposit",
+    "biomes": [],
+    "config": {
+        "material": "silver",
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 12,
+        "size": 10,
+        "minYLevel": -63,
+        "maxYLevel": 16,
+        "placement": "uniform",
+        "rarity": "common"
+    }
+}

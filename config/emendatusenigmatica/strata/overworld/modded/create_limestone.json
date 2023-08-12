@@ -1,0 +1,10 @@
+{
+    "id": "create_limestone",
+    "baseTexture": "create:block/limestone",
+    "suffix": "create_limestone",
+    "fillerType": "create:limestone",
+    "localizedName": "Limestone",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}
