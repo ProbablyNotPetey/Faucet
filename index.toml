@@ -4905,11 +4905,6 @@ hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
 metafile = true
 
 [[files]]
-file = "mods/solar-forge.pw.toml"
-hash = "5d4f3596c22cee2c41262ef4d4f91b9297ee5ebfad6e7d30a1714f0f3f1bf26f"
-metafile = true
-
-[[files]]
 file = "mods/sorcerium.pw.toml"
 hash = "da7cfe50e87bd1d4af6ed1cc3b23a5ce992b8654cb9f37d85c33fd700a3f279a"
 metafile = true
