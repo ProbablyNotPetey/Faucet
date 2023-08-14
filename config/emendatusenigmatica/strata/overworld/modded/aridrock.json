@@ -1,6 +1,6 @@
 {
     "id": "aridrock",
-    "baseTexture": "darkerdepthsk/aridrock",
+    "baseTexture": "darkerdepths:block/aridrock",
     "suffix": "aridrock",
     "fillerType": "darkerdepths:aridrock",
     "localizedName": "Aridrock",

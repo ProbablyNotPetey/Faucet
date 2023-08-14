@@ -1,0 +1,20 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "minecraft:overworld",
+    "registryName": "aquite_vanilla_deposit",
+    "biomes": ["#minecraft:is_ocean"],
+    "config": {
+        "material": "aquite",
+        "fillerTypes": [
+            "sand",
+            "gravel",
+            "clay"
+        ],
+        "chance": 8,
+        "size": 8,
+        "minYLevel": 40,
+        "maxYLevel": 64,
+        "placement": "uniform",
+        "rarity": "common"
+    }
+}

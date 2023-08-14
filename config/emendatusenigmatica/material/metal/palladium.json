@@ -1,0 +1,92 @@
+{
+    "id": "palladium",
+    "source": "modded",
+    "localizedName": "Palladium",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "ore",
+        "raw",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "slurry",
+        "crystal",
+        "shard",
+        "clump",
+        "dirty_dust",
+
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "metal",
+        "harvestLevel": 2,
+        "isEmissive": true
+    },
+    "tools": {
+        "attackDamage": 3,
+        "level": 2,
+        "enchantability": 20,
+        "efficiency": 7.0,
+        "sword": {
+            "damage": 2,
+            "speed": -2.4,
+            "durability": 384
+        },
+        "axe": {
+            "damage": 4,
+            "speed": -3.0,
+            "durability": 384
+        },
+        "pickaxe": {
+            "damage": 0.0,
+            "speed": -2.8,
+            "durability": 384
+        },
+        "shovel": {
+            "damage": 0.0,
+            "speed": -3.0,
+            "durability": 384
+        },
+        "hoe": {
+            "damage": -3.0,
+            "speed": 0.0,
+            "durability": 384
+        }
+    },
+    "armor": {
+        "setArmor": false,
+        "toughness": 4.0,
+        "enchantability": 18,
+        "helmet": {
+            "protection": 2,
+            "durability": 185
+        },
+        "chestplate": {
+            "protection": 6,
+            "durability": 302
+        },
+        "leggings": {
+            "protection": 5,
+            "durability": 246
+        },
+        "boots": {
+            "protection": 2,
+            "durability": 224
+        }
+    },
+    "colors": {
+        "materialColor": "fa7f2d"
+    }
+}

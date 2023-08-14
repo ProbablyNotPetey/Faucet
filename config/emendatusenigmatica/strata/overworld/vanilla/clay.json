@@ -1,0 +1,10 @@
+{
+    "id": "clay",
+    "baseTexture": "minecraft:block/clay",
+    "suffix": "clay",
+    "fillerType": "minecraft:clay",
+    "localizedName": "Clay",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

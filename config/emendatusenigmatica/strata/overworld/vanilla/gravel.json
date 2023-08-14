@@ -1,0 +1,10 @@
+{
+    "id": "gravel",
+    "baseTexture": "minecraft:block/gravel",
+    "suffix": "gravel",
+    "fillerType": "minecraft:gravel",
+    "localizedName": "Gravel",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}

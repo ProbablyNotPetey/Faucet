@@ -1,0 +1,89 @@
+{
+    "id": "carnite",
+    "source": "modded",
+    "localizedName": "Carnite",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "ore",
+        "raw",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "slurry",
+        "crystal",
+        "shard",
+        "clump",
+        "dirty_dust",
+
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "metal",
+        "harvestLevel": 3,
+        "isEmissive": true
+    },
+    "tools": {
+        "attackDamage": 5,
+        "level": 3,
+        "enchantability": 15,
+        "efficiency": 8.0,
+        "sword": {
+            "damage": 2,
+            "speed": -2.4,
+            "durability": 2250
+        },
+        "axe": {
+            "damage": 3,
+            "speed": -3.0,
+            "durability": 2250
+        },
+        "pickaxe": {
+            "damage": 0.0,
+            "speed": -2.8,
+            "durability": 2250
+        },
+        "shovel": {
+            "damage": 0.5,
+            "speed": -3.0,
+            "durability": 2250
+        },
+        "hoe": {
+            "damage": -5.0,
+            "speed": 0.0,
+            "durability": 2250
+        }
+    },
+    "armor": {
+        "setArmor": false,
+        "toughness": 2.0,
+        "enchantability": 13,
+        "helmet": {
+            "protection": 3,
+            "durability": 430
+        },
+        "chestplate": {
+            "protection": 8,
+            "durability": 621
+        },
+        "leggings": {
+            "protection": 6,
+            "durability": 589
+        },
+        "boots": {
+            "protection": 3,
+            "durability": 521
+        }
+    }
+}

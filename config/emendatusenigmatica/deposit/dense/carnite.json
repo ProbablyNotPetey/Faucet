@@ -1,0 +1,42 @@
+{
+    "type": "emendatusenigmatica:dense_deposit",
+    "dimension": "minecraft:overworld",
+    "biomes": [],
+    "registryName": "carnite_dense_deposit",
+    "config": {
+        "blocks": [
+            {
+                "material": "carnite",
+                "weight": 12
+            },
+            {
+                "block": "emendatusenigmatica:raw_carnite_block",
+                "weight": 1
+            }
+        ],
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 30,
+        "size": 20,
+        "minYLevel": -63,
+        "maxYLevel": -32,
+        "placement": "uniform",
+        "rarity": "rare",
+        "generateSamples": false
+    }
+}

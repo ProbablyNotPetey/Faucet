@@ -1,0 +1,32 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "minecraft:overworld",
+    "registryName": "carnite_vanilla_deposit",
+    "biomes": [],
+    "config": {
+        "material": "carnite",
+        "fillerTypes": [
+            "stone",
+            "granite",
+            "diorite",
+            "andesite",
+            "deepslate",
+            "tuff",
+            "calcite",
+
+            "aridrock",
+            "black_marble",
+            "create_limestone",
+            "quark_limestone",
+            "darkerdepths_limestone",
+            "darkstone",
+            "marble"
+        ],
+        "chance": 3,
+        "size": 4,
+        "minYLevel": -63,
+        "maxYLevel": -32,
+        "placement": "uniform",
+        "rarity": "common"
+    }
+}

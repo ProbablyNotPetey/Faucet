@@ -1,6 +1,6 @@
 {
     "id": "black_marble",
-    "baseTexture": "sorcerium:block/black_marble",
+    "baseTexture": "sorcerium:blocks/black_marble",
     "suffix": "black_marble",
     "fillerType": "sorcerium:black_marble",
     "localizedName": "Black Marble",

@@ -1,0 +1,10 @@
+{
+    "id": "sand",
+    "baseTexture": "minecraft:block/sand",
+    "suffix": "sand",
+    "fillerType": "minecraft:sand",
+    "localizedName": "Sand",
+    "harvestTool": "pickaxe",
+    "hardness": 1.5,
+    "resistance": 6
+}
