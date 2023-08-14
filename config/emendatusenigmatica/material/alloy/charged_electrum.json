@@ -16,7 +16,7 @@
         "materialType": "alloy",
         "harvestLevel": 2
     },
-    "color": {
+    "colors": {
         "materialColor": "faee84"
     }
 }
