@@ -1,0 +1,13 @@
+name = "Better Combat Fixes"
+filename = "bc_fixes-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3aa67f8f438dcd8bcae7e3f5ffc8ebc0134242d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4705438
+project-id = 902841
