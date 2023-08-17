@@ -70,7 +70,7 @@
         "toughness": 4.0,
         "enchantability": 18,
         "helmet": {
-            "protection": 2,
+            "protection": 3,
             "durability": 185
         },
         "chestplate": {
@@ -82,7 +82,7 @@
             "durability": 246
         },
         "boots": {
-            "protection": 2,
+            "protection": 3,
             "durability": 224
         }
     },
