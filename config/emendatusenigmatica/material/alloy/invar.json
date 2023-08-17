@@ -1,0 +1,19 @@
+{
+    "id": "invar",
+    "source": "modded",
+    "localizedName": "Invar",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    }
+}

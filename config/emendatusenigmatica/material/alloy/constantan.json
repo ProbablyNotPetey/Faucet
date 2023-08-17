@@ -1,0 +1,19 @@
+{
+    "id": "constantan",
+    "source": "modded",
+    "localizedName": "Constantan",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod"
+        ],
+    "disableDefaultOre": true,
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    }
+}
