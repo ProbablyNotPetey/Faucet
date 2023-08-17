@@ -3935,6 +3935,11 @@ hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-fixes.pw.toml"
+hash = "1dc6cbee09a04fffcd09b0e3d9b79119227a5b02e1fce2122724b9290b0b7e4b"
+metafile = true
+
+[[files]]
 file = "mods/better-fishing-rods.pw.toml"
 hash = "7fd5366b0e3e94b826e7992f535b8826d809a2c23c97eb34151c23e434648a01"
 metafile = true
@@ -4162,6 +4167,11 @@ metafile = true
 [[files]]
 file = "mods/dragon-enchants.pw.toml"
 hash = "80c0a3f67cfb77b65f93f8f6eb93f9824afb7a0e5e230b6d3aaae4cf62adaf8a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-plus.pw.toml"
+hash = "5769751915286a004dec2204f51cba385efbefd4525d151b65afef9031b9c11b"
 metafile = true
 
 [[files]]
@@ -4982,6 +4992,11 @@ metafile = true
 [[files]]
 file = "mods/tetratic-combat.pw.toml"
 hash = "96dbda13567a155bb20a9c78bffb5f580a2d18ab6c5c19a2020b2c22bf23210c"
+metafile = true
+
+[[files]]
+file = "mods/the-conjurer.pw.toml"
+hash = "08e44a3f1e7aa4f175e3be1daaf5d0ad0b807532196a4f05938294e992a2e8c9"
 metafile = true
 
 [[files]]
