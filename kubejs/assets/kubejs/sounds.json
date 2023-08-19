@@ -1,0 +1,7 @@
+{
+    "weeping_well_close": {
+        "sounds": [
+            "kubejs:weeping_well_death"
+        ]
+    }
+}
