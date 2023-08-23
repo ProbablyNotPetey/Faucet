@@ -97,10 +97,10 @@ ServerEvents.recipes(event => {
 
 
 
-    //===============================================================================================================
+    // =============================================================================================================== //
 
 
-    const blacklistLetsDoRecipes = [
+    let blacklistedRecipes = [
         'candlelight:pan_cooking/pizza',
         'candlelight:pan_cooking/beef_wellington',
         'candlelight:pan_cooking/bolognese',
@@ -114,11 +114,11 @@ ServerEvents.recipes(event => {
     //convert all remaining cooking pot and cooking pan recipes (from Candlelight AND Bakery) to Farmer's Delight Cooking Pot
     event.forEachRecipe([{ type: 'candlelight:pan_cooking'}, { type: 'candlelight:pot_cooking' }, { type: 'bakery:pot_cooking' }], recipe => {
 
-        if(blacklistLetsDoRecipes.includes(recipe.getId())) {
+        if(blacklistedRecipes.includes(recipe.getId())) {
             return
         }
 
-        console.log(recipe.getId())
+        // console.log(recipe.getId())
 
 
         let recipeJson = recipe.json

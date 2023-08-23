@@ -64,7 +64,7 @@ PlayerEvents.tick(event => {
         return
     }
 
-    checkForWeepingWellRemoval(event.getPlayer(), event.getLevel(), 8.0)
+    checkForWeepingWellRemoval(event.getPlayer(), event.getLevel(), 12.0)
 })
 
 function checkForWeepingWellRemoval(player, level, range) {
@@ -74,7 +74,6 @@ function checkForWeepingWellRemoval(player, level, range) {
     //can't break out of a forEach loop and rhino doesn't support for-of loops
     let entities = level.getEntities(player, player.getBoundingBox().inflate(range))
     for(let i = 0; i < entities.size(); i++) {
-        
         if(entities[i].getType() == 'minecraft:item') {
 
             let itemEntity = entities[i]
@@ -170,6 +169,8 @@ function checkForWeepingWellRemoval(player, level, range) {
                 // lightning.y = pos.y
                 // lightning.z = pos.z += 0.5
                 // lightning.spawn()
+
+                return
             }
         })
     }
