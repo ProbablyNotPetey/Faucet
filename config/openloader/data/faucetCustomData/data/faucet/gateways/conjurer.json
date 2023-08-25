@@ -1,0 +1,112 @@
+{
+    "size": "medium",
+    "color": "#B54EB0",
+    "spawn_algorithm": "gateways:inward_spiral",
+    "waves": [
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:rabbit",
+                    "nbt": { "RabbitType" : 99 }
+                },
+                {
+                    "entity": "minecraft:rabbit",
+                    "nbt": { "RabbitType" : 99 }
+                },
+                {
+                    "entity": "minecraft:rabbit",
+                    "nbt": { "RabbitType" : 99 }
+                },
+                {
+                    "entity": "minecraft:rabbit",
+                    "nbt": { "RabbitType" : 99 }
+                }
+            ],
+            "modifiers": [
+                {
+                    "attribute": "minecraft:generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 2.0
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "loot_table",
+                    "loot_table": "faucet:gateways/conjurer_reward",
+                    "rolls": 1,
+                    "desc": "Illager Loot"
+                }
+            ],
+            "max_wave_time": 750,
+            "setup_time": 150
+        },
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:pillager"
+                },
+                {
+                    "entity": "minecraft:pillager"
+                },
+                {
+                    "entity": "minecraft:vindicator"
+                },
+                {
+                    "entity": "minecraft:pillager"
+                },
+                {
+                    "entity": "minecraft:illusioner"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "loot_table",
+                    "loot_table": "faucet:gateways/conjurer_reward",
+                    "rolls": 3,
+                    "desc": "Illager Loot"
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 150
+        },
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:pillager"
+                },
+                {
+                    "entity": "minecraft:pillager"
+                },
+                {
+                    "entity": "conjurer_illager:conjurer"
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "loot_table",
+                    "loot_table": "faucet:gateways/conjurer_reward",
+                    "rolls": 5,
+                    "desc": "Illager Loot"
+                }
+            ],
+            "max_wave_time": 3000,
+            "setup_time": 180
+        }
+    ],
+    "rewards": [
+        {
+            "type": "loot_table",
+            "loot_table": "faucet:gateways/conjurer_reward",
+            "rolls": 5,
+            "desc": "Illager Loot"
+        },
+        {
+            "type": "loot_table",
+            "loot_table": "faucet:gateways/conjurer_finish_reward",
+            "rolls": 2,
+            "desc": "Conjurer Loot"
+        }
+    ],
+    "completion_xp": 1250,
+	"spawn_range": 7
+}

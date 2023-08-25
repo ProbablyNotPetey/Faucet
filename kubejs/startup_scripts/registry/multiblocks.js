@@ -79,16 +79,36 @@ const ARTIFICIAL_WEEPING_WELL_MULTIBLOCK = () => $PatchouliAPI.get().makeMultibl
     new $Character('0'), Block.getBlock('malum:blighted_soil')
 )
 
+const CONJURER_ALTAR_MULTIBLOCK = () => $PatchouliAPI.get().makeMultiblock(
+    [
+        [
+            '   ',
+            ' 0 ',
+            '   '
+        ],
+        [
+            'AAA',
+            'AEA',
+            'AAA'
+        ]
+    ],
+    new $Character('A'), Block.getBlock('galosphere:smooth_amethyst'),
+    new $Character('E'), Block.getBlock('minecraft:emerald_block'),
+    new $Character('0'), Block.getBlock('eidolon:straw_effigy')
+)
+
 
 
 // allow server scripts to access
 global.MULTIBLOCKS = {
     ARTIFICIAL_WEEPING_WELL: ARTIFICIAL_WEEPING_WELL_MULTIBLOCK,
+    CONJURER_ALTAR: CONJURER_ALTAR_MULTIBLOCK
 }
 
 StartupEvents.init(event => {
 
     $PatchouliAPI.get().registerMultiblock(ResourceLocation('faucet:artificial_weeping_well'), ARTIFICIAL_WEEPING_WELL_MULTIBLOCK())
+    $PatchouliAPI.get().registerMultiblock(ResourceLocation('faucet:conjurer_altar'), CONJURER_ALTAR_MULTIBLOCK())
 
 
 })

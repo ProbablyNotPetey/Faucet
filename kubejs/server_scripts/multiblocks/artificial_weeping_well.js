@@ -26,7 +26,7 @@ BlockEvents.rightClicked('malum:blighted_soil', event => {
         return
     }
 
-    console.info('clicked on multiblock!')
+    // console.info('clicked on multiblock!')
     event.getPlayer().swing()
 
     BlockPos.betweenClosed(pos.offset(1, 0, 1), pos.offset(-1, -3, -1)).forEach(p => {

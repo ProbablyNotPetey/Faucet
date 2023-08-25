@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                	"type": "minecraft:item",
+                    "name": "hexcasting:scroll"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "hexcasting:pattern_scroll"
+                }
+            ],
+            "rolls": 1.0
+        }
+    ]
+}
