@@ -3765,6 +3765,11 @@ hash = "6f88d5b5d875587ef344b8d75f79bece511675ec80d10b7f5d19f0be2f7a5ca9"
 metafile = true
 
 [[files]]
+file = "mods/additional-guns.pw.toml"
+hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -4360,6 +4365,11 @@ hash = "748c2bd357f31b10c92d0d21617abb12660e9525f62111269b643dac5a8539eb"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+metafile = true
+
+[[files]]
 file = "mods/frozen-delight.pw.toml"
 hash = "1a2d1f8a8d462848f39a8b0ff9f27b6658f7da19f41ab248ad1e2a02b7e3df55"
 metafile = true
@@ -4685,6 +4695,11 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
+metafile = true
+
+[[files]]
 file = "mods/mutil.pw.toml"
 hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
@@ -4882,6 +4897,11 @@ metafile = true
 [[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "4184c1ab488b34f8b77837645f513e2846666a84cf82deeda7719c70a4f8a24e"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns.pw.toml"
+hash = "d0380b30f04a81cfebbc8b2ae6800da4aa9e425840cbf5e6e17cc50ad3831388"
 metafile = true
 
 [[files]]
