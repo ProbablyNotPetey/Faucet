@@ -5,5 +5,6 @@ ServerEvents.tags('block', event => {
             event.remove('minecraft:mineable/pickaxe', block)
             event.add('minecraft:mineable/shovel', block)
         }
+
     })
 })

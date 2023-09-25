@@ -4890,6 +4890,11 @@ hash = "afe4680b1c2d5bd94fcb398b9ab24b9c25e247586e4c7fe237cf1f1c31c03993"
 metafile = true
 
 [[files]]
+file = "mods/sanguine-arsenal-reforged.pw.toml"
+hash = "d48611b070b1cf747c2cc646ce2e1a39a15d56967360c21d35d56441924989f0"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "f58f6967e5b7d2d966a439edf6f27a89290c41a87049c0ed7324c887bbd6998c"
 metafile = true
