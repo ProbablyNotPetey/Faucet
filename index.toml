@@ -4410,6 +4410,11 @@ hash = "36560cdaa4a9d63651ad2781bec400cfd166f450eb49e76307bb28c631ed1d85"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "f4032b5135d9020c462b9be9494d908fe707f6aa2511c05c14c9f4f8814be0cd"
+metafile = true
+
+[[files]]
 file = "mods/galosphere-delight-a-farmers-delight-add-on.pw.toml"
 hash = "2a088f94d1b1b3a647ab0ba2984631d6b16391a63d79e5ab1ddb819b92d4a523"
 metafile = true
@@ -4517,6 +4522,11 @@ metafile = true
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
@@ -4800,6 +4810,11 @@ hash = "93a5b53dc235d0a5279760e5378c93b33ce7db734bbecc7a862386b110a2e664"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "b68190074b9579aafae1526cd94f7eefaf21261909c493315b0a4ffaf9558a50"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "47ec4b07079902cb55717dc6a7c76eeab6c4272a6465ef02b00504f33cee4a08"
 metafile = true
@@ -4837,6 +4852,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
+file = "mods/quickstack.pw.toml"
+hash = "3b6d238b1a7a14dca0c6f2edf9d6b222090c69fccb21206bca8210af9cb462f4"
 metafile = true
 
 [[files]]
